@@ -1,0 +1,33 @@
+## 2024
+#### examination2 [en](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2024/examination2/2024-open-examination2-statement-en.pdf)
+Masz dane wyrażenie nawiasowe które operuje na przypisywaniu przedziałom prawdy lub fałszu i łączeniu tyczh przedziałów, operacje pytanie o wartość punktów.
+#### heat [en](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2024/heat/2024-open-heat-statement-en.pdf) 
+*Ścieżka*
+
+#### library3 [en](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2024/library3/2024-open-library3-statement-en.pdf)
+#interaktyw
+Zgadywanie odpowiedzi przez pytanie grader'a
+
+## 2023
+- ancient2 [en](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2023/ancient2/2023-open-ancient2-statement-en.pdf) 
+#interaktyw 
+Mamy 'automat' do którego wrzucamy wejście i dwa zestawy krawędzi, on na podstawie ukrytej tablicy stwierdza za każdym razem którego zestawu używa
+Mamy zgadnąć ukrytą tablicę kilkoma uruchomieniami.
+
+- cell [en](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2023/cell/2023-open-cell-statement-en.pdf) 
+#grid
+- garden [en](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2023/garden/2023-open-garden-statement-en.pdf) 
+#grid
+
+## 2022
+#### [Seesaw](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2022/seesaw/2022-open-seesaw-statement-en.pdf)
+Śmieszna matma...
+#### [Żyrafy](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2022/giraffes/2022-open-giraffes-statement-en.pdf)
+Śmieszna matma...
+
+#### [School road](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2022/school_road/2022-open-school_road-statement-en.pdf)
+#graf
+
+## 2021
+
+## 2020
