@@ -4,135 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2e97db30346c3863",
+        "id": "168be439cbe37b61",
         "type": "tabs",
         "children": [
           {
-            "id": "c5befd3c6df547c0",
+            "id": "be15d168d47979fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stałość sygnału.md",
+                "file": "PIPR/Wykład 4 - procesory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stałość sygnału"
-            }
-          },
-          {
-            "id": "5628756244f8148e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wykład PTCY - Automaty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wykład PTCY - Automaty"
-            }
-          },
-          {
-            "id": "c5f8710ca6f9d38e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wykład PTCY - Automaty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wykład PTCY - Automaty"
-            }
-          },
-          {
-            "id": "4a5cf8bbd4c52145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automaty c.d.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Automaty c.d"
-            }
-          },
-          {
-            "id": "236dca65bc57fad6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "3911c465bb8d3856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PTCY/Wykład PTCY - Automaty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wykład PTCY - Automaty"
-            }
-          },
-          {
-            "id": "2df43f118e10c43f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PTCY/Stałość sygnału.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stałość sygnału"
-            }
-          },
-          {
-            "id": "fe35c87921a0ec8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PTCY/Automaty c.d.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Automaty c.d"
-            }
-          },
-          {
-            "id": "650b5183a53c809e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Wykład 4 - procesory"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,11 +163,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "650b5183a53c809e",
+  "active": "cade2c1eabc83aa5",
   "lastOpenFiles": [
+    "Algo/Zadanka/Interaktywy na enko-deko.md",
+    "Algo/Zadanka/Zadanka na dwuspójne krawędziowe i wierzchołkowe.md",
+    "PIPR/Wykład 4 - procesory.md",
+    "PIPR",
+    "PTCY/Wykład PTCY - Automaty.md",
+    "PTCY/Stałość sygnału.md",
     "PTCY/Automaty c.d.md",
     "README.md",
-    "Algo/Zadanka/Zadanka na dwuspójne krawędziowe i wierzchołkowe.md",
     "Algo/Zadanka/JOI zadanka database.md",
     "Algo/Zadanka",
     "Algo",
@@ -287,8 +181,6 @@
     "Prawo Autorskie/Wykład 1.md",
     "Prawo Autorskie/Untitled.md",
     "Prawo Autorskie",
-    "PTCY/Stałość sygnału.md",
-    "PTCY/Wykład PTCY - Automaty.md",
     "PTCY"
   ]
 }
