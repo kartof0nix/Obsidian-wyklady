@@ -1,3 +1,4 @@
+# Open contests
 ## 2024
 #### examination2 [en](https://s3-ap-northeast-1.amazonaws.com/data.cms.ioi-jp.org/open-2024/examination2/2024-open-examination2-statement-en.pdf)
 Masz dane wyrażenie nawiasowe które operuje na przypisywaniu przedziałom prawdy lub fałszu i łączeniu tyczh przedziałów, operacje pytanie o wartość punktów.
@@ -29,5 +30,9 @@ Mamy zgadnąć ukrytą tablicę kilkoma uruchomieniami.
 #graf
 
 ## 2021
+#### Crossing
+Struktura danych, szybko licz czy można skonstruować skomplikowaną sekwencją wynik
+#### Financial report
+
 
 ## 2020
