@@ -54,4 +54,5 @@ No interaktyw
 no interaktyw
 
 ## The 21st Japanese Olympiad in Informatics Final Round Online Contest
+Broken device 2
 #interaktyw #enko-deko
