@@ -33,6 +33,25 @@ Mamy zgadnąć ukrytą tablicę kilkoma uruchomieniami.
 #### Crossing
 Struktura danych, szybko licz czy można skonstruować skomplikowaną sekwencją wynik
 #### Financial report
+Matma...
+#### Monster
+#interaktyw 
+Porównujesz elementy i znajdź ich "sortowanie"... ini po prostu zaklep jakiegoś sorta.
 
 
 ## 2020
+#### Monochrome 
+Matma - punkty na okręgu, łącz tak aby było najmniej przecięć
+
+#### Power plant
+#graf 
+
+# other
+## The 23rd Japanese Olympiad in Informatics Final Round Online Contest
+No interaktyw
+
+## The 22th Japanese Olympiad in Informatics Final Round Online Contest
+no interaktyw
+
+## The 21st Japanese Olympiad in Informatics Final Round Online Contest
+#interaktyw #enko-deko
