@@ -41,8 +41,6 @@ S4 ↔ 11
 
 ### Automaty Moor'a
 
-x ->  d --+-> L -> Y
-    ↑<-|
 S\` = d(S, X)
 Y= L(S)
 
@@ -50,9 +48,12 @@ Y= L(S)
 
 graph TD
 
+x --> automat
+automat -- S --> L
+automat -- S --> automat
+L --> Y
 
 ```
-
 
 | S \ x1 x0 | 00  | 01  | 11  | 10  | y1y0 |
 | --------- | --- | --- | --- | --- | ---- |
@@ -62,11 +63,20 @@ graph TD
 | S4        | S1  | S2  | S3  | S2  | 11   |
 #### Wad
 ### Automaty Mealy'ego
-.     |---->↓
-x -+->  d --+-> L -> Y
-    ↑<-|
-S\` = d(S, X)
+S = d(S, X)
 Y= L(S, X)
+
+```mermaid
+
+graph TD
+
+I(Input) -- x --> automat
+I -- x --> L
+automat -- S --> L
+automat -- S --> automat
+L --> Y
+
+```
 
 | S \ x1 x0 | 00    | 01    | 11    | 10    |
 | --------- | ----- | ----- | ----- | ----- |
@@ -82,6 +92,7 @@ bardziej zaawansowana funkcja wyjść -> prostsza konstrukcja przejść
 Algorytm Moore'a <-> Algorytm Mealy'ego
 
 Robią dokładnie to samo ale inaczej (są "funkcjonalnie równoważnie)
+
 
 ## Przerzutniki
 
