@@ -54,7 +54,7 @@ No interaktyw
 no interaktyw
 
 ## The 21st Japanese Olympiad in Informatics Final Round Online Contest
-Broken device 2
+[Broken device 2]()
 #interaktyw #enko-deko
 
 ## The 20th Japanese Olympiad in Informatics Final Round Online Contest
@@ -66,3 +66,6 @@ Broken device 2
 ## The 19th Japanese Olympiad 
 [stray cat](https://www2.ioi-jp.org/camp/2020/2020-sp-tasks/day3/stray-en.pdf)
 #interaktyw #enko-deko 
+
+
+Snowy Roads JOI 2023 summer camp
