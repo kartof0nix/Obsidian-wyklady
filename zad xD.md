@@ -25,7 +25,7 @@ Stosując format instrukcji maszynowej: `operacja arg_źródłowy, arg_docelowy`
 
 **Instrukcje do wykonania | Kod operacji | Kodowanie:**
 
-1. `mov R1, [R2]` – Skopiuj zawartość pamięci spod adresu w R2 do rejestru R1.
+1. `mov R1, [R2]` – Skopiuj zawartość pamięci z RAM spod adresu w R2 do rejestru R1.
 2. `add R1, R0` –
 3. `sub R1, R2` 
 4. `jg 0x2000` – Wy
@@ -40,11 +40,11 @@ Podaj zawartość wymienionych poniżej w tabeli rejestrów oraz zawartość kom
 - Akumulator (A) = 0x0000
 - PC (program counter) = 0x1000
 - SP (stack pointer) = 0x7FFC
-- BP (base pointer) = 0x8002
+- BP (base pointer) = 0x8003
 
 Przestrzeń adresowa pamięci (każda komórka przechowuje 16-bitowe dane):
 
-- [0x7FFF] = 0x89AB
+- [0x7FFF] = 0x59AB
 - [0x2000] = kod funkcji (zakładamy, że funkcja nie modyfikuje rejestrów poza SP).
 - [0x3000] = kod funkcji wywołanej przez `call` (również zakładamy brak modyfikacji rejestrów poza SP).
 - [0x7FFC] = niezainicjalizowane
@@ -61,3 +61,5 @@ Dla każdej operacji podaj:
 - Postać heksadecymalną kodu maszynowego.
 - Zawartość rejestrów po wykonaniu każdej instrukcji.
 - Zawartość pamięci po zakończeniu całej sekwencji.
+
+logiczniejsza byłaby chybba inna kolejność -
