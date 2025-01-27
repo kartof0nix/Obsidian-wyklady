@@ -2,7 +2,7 @@
 
 ---
 
-**9. Mamy system komputerowy z 32-bitową przestrzenią adresową, natywnym słowem 16-bitowym oraz o 8-bitowym bajcie. Stos rosnący w dół przestrzeni adresowej.**  
+**9. Mamy system komputerowy z 16-bitową przestrzenią adresową, natywnym słowem 16-bitowym oraz o 8-bitowym bajcie. Stos rosnący w dół przestrzeni adresowej.**  
 Stosując format instrukcji maszynowej: `operacja arg_źródłowy, arg_docelowy` oraz kodowanie wg podanych tabel kodowania, podaj postać heksadecymalną kolejnych bajtów kodu instrukcji.
 
 **Tabelka kodowania adresów:**
@@ -28,7 +28,7 @@ Stosując format instrukcji maszynowej: `operacja arg_źródłowy, arg_docelowy`
 1. `mov R1, [R2]` – Skopiuj zawartość pamięci z RAM spod adresu w R2 do rejestru R1.
 2. `add R1, R0` –
 3. `sub R1, R2` 
-4. `jg 0x2000` – Wy
+4. `jg 0x2000` 
 5. `push R2`
 6. `call 0x3000`
 
