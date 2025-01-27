@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "d3fa26d4e9df58be",
+    "type": "split",
+    "children": [
+      {
+        "id": "31e0732958e08416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7795ac18bb6f30",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Analiza Matematyczna/Wykłady/(9)Funkcje wielu zmiennych cz.2 WD.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(9)Funkcje wielu zmiennych cz.2 WD"
+            }
+          },
+          {
+            "id": "f848434c92d23195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zad xD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zad xD"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b66bb71833a0d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d464f759c60ed5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cade2c1eabc83aa5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "47c9565e2c1ee98a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "705ed28b379599f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58e4bc04c295b25c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4057a3f7082beb2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81df2a256250bf60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stałość sygnału.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stałość sygnału"
+            }
+          },
+          {
+            "id": "a509a4065e86cd0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stałość sygnału.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stałość sygnału"
+            }
+          },
+          {
+            "id": "6083b222981e9965",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7965b715cbf64ac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stałość sygnału.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stałość sygnału"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f848434c92d23195",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Analiza Matematyczna/Wykłady/(9)Funkcje wielu zmiennych cz.2 WD.pdf",
+    "Wykład 6.md",
+    "What annoys me in mother.md",
+    "Untitled.md",
+    "Analiza Matematyczna/Ćwiczenia/ANA 1 Z8-9.pdf",
+    "Analiza Matematyczna/Ćwiczenia/ANA 1 Z10.pdf",
+    "Analiza Matematyczna/Wykłady/(8)Funkcje wielu zmiennych cz.1 WD.pdf",
+    "Analiza Matematyczna/Wykłady/(7)Calki niewlasciweWD.pdf",
+    "Analiza Matematyczna/Wykłady/(6)Calka oznaczonaWD.pdf",
+    "Analiza Matematyczna/Wykłady/(",
+    "Analiza Matematyczna/Ćwiczenia/ANA 1 Z0.pdf",
+    "Analiza Matematyczna/Ćwiczenia/ANA 1 Z2.pdf",
+    "Analiza Matematyczna/Ćwiczenia/ANA 1 Z5.pdf",
+    "Notes after touching meta.md",
+    "zad xD.md",
+    "Wykład 8 - bazy danych.md",
+    "Wykład - jak się projektuje układy cyfrowe?.md",
+    "Projekt PIPR.md",
+    "Prawo Autorskie/Wykład 7.md",
+    "APA/Artykuł komputery kwantowe.md",
+    "().md",
+    "APA/Czujniki 1.md",
+    "notes.md",
+    "APA/Czujniki w robotyce.md",
+    "Algo/Zadanka/JOI zadanka database.md",
+    "Algo/Zadanka/Zadanka na dwuspójne krawędziowe i wierzchołkowe.md",
+    "Algo/Zadanka/Interaktywy na enko-deko.md",
+    "README.md",
+    "PIPR/Wykład 4 - procesory.md",
+    "PTCY/Wykład PTCY - Automaty.md",
+    "PTCY/Stałość sygnału.md",
+    "PTCY/Automaty c.d.md",
+    "Prawo Autorskie/Wykład 5 + ćwiczenia.md",
+    "Prawo Autorskie/Wykład 4.md"
+  ]
+}
