@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "025a27d654d1d3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What annoys me in mother.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What annoys me in mother"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,10 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6a7e774da3cf485",
+  "active": "025a27d654d1d3d7",
   "lastOpenFiles": [
-    "Algo/Zadanka/JOI zadanka database.md",
     "Untitled.md",
+    "What annoys me in mother.md",
+    "Wykład 6.md",
+    "/Wykład 6.md",
+    "/Algo/Zadanka/JOI zadanka database.md",
+    "Algo/Zadanka/JOI zadanka database.md",
     "PTCY/Wykład PTCY - Automaty.md",
     "PIPR",
     "Algo/Zadanka/Interaktywy na enko-deko.md",
