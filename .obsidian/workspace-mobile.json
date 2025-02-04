@@ -65,7 +65,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -189,6 +190,7 @@
   },
   "active": "025a27d654d1d3d7",
   "lastOpenFiles": [
+    "Untitled",
     "Untitled.md",
     "What annoys me in mother.md",
     "Wykład 6.md",
