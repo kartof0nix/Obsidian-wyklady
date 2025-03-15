@@ -39,18 +39,28 @@
             "id": "025a27d654d1d3d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "What annoys me in mother.md",
-                "mode": "source",
-                "source": false
+                "file": "ALIN/zadania/zestaw9_z24.pdf"
               },
-              "icon": "lucide-file",
-              "title": "What annoys me in mother"
+              "icon": "lucide-file-text",
+              "title": "zestaw9_z24"
+            }
+          },
+          {
+            "id": "0511b34bb72068ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Analiza Matematyczna/Ćwiczenia/ANA 1 Z10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ANA 1 Z10"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +75,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -187,37 +198,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "025a27d654d1d3d7",
+  "active": "0511b34bb72068ac",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Analiza Matematyczna/Wykłady/(9)Funkcje wielu zmiennych cz.2 WD.pdf",
+    "ALIN/zadania/zestaw12_z24.pdf",
+    "Punktacja.md",
+    "ALIN/zadania/zestaw9_z24.pdf",
     "What annoys me in mother.md",
+    "Analiza Matematyczna/Wykłady/(7)Calki niewlasciweWD.pdf",
+    "Analiza Matematyczna/Wykłady/(8)Funkcje wielu zmiennych cz.1 WD.pdf",
+    "Analiza Matematyczna/Wykłady/(6)Calka oznaczonaWD.pdf",
+    "zad xD.md",
+    "ALIN/wykłady/alin_w13_z21.pdf",
+    "ALIN/zadania/zestaw",
+    "ALIN/wykłady/alin_w12_z21.pdf",
+    "/zad xD.md",
+    "/Analiza Matematyczna/Wykłady/(9)Funkcje wielu zmiennych cz.2 WD.pdf",
+    "Untitled.md",
     "Wykład 6.md",
     "/Wykład 6.md",
     "/Algo/Zadanka/JOI zadanka database.md",
     "Algo/Zadanka/JOI zadanka database.md",
     "PTCY/Wykład PTCY - Automaty.md",
-    "PIPR",
     "Algo/Zadanka/Interaktywy na enko-deko.md",
     "PIPR/Wykład 4 - procesory.md",
     "/README.md",
     "/PIPR/Wykład 4 - procesory.md",
     "/Algo/Zadanka/Interaktywy na enko-deko.md",
-    "/PIPR",
     "README.md",
-    "Prawo Autorskie",
-    "APA",
     "APA/Przekładnie.md",
     "Prawo Autorskie/Wykład 4.md",
     "Prawo Autorskie/Wykład 5 + ćwiczenia.md",
     "APA/Łączniki Elektryczne.md",
     "PTCY/Automaty c.d.md",
-    "PTCY",
     "APA/Kolokwium.md",
     "Prawo Autorskie/Untitled.md",
     "Algo/Zadanka/Zadanka na dwuspójne krawędziowe i wierzchołkowe.md",
-    "Algo/Zadanka",
-    "Algo",
-    "Prawo Autorskie/Wykład 1.md",
-    "PTCY/Stałość sygnału.md"
+    "Prawo Autorskie/Wykład 1.md"
   ]
 }
