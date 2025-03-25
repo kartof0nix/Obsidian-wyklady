@@ -42,3 +42,4 @@ ok-
 
 Priorytet 1: 3
 Priorytet 2: 8
+Priorytet 3: 13
