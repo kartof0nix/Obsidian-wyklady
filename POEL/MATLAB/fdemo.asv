@@ -15,25 +15,16 @@ grid on
 in0 = [0.1, 6];
 in1 = [0.1, 24];
 in2 = [0.1, 96];
-tint = in0;
 
 tiledlayout(2,1)
 
 nexttile
 hold on
-fplot(@(x) Db(abs(Ha(x))), tint);
-fplot(@(x) Db(abs(Hz(x))), tint);
-ylabel("|H(f)| [dB]");
+fplot(@(x) Db(abs(Ha(x))), in0);
+fplot(@(x) Db(abs(Hz(x))), in0);
+ylabel("|H(f) [dB]");
 xlabel("F [kHz]");
 legend("Ha(f)", "Hz(f)");
 hold off
 
-nexttile
-hold on
-fplot(@(x) angle(Ha(x)), tint);
-fplot(@(x) anlge(Hz(x)), tint);
-ylabel("arg(H(f)) ");
-xlabel("F [kHz]");
-legend("Ha(f)", "Hz(f)");
-hold off
 
