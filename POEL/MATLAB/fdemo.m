@@ -1,9 +1,14 @@
-Fg = 48;
+Fs = 48;
 
-Hd = @(f) (-1/Fg) .* (exp(-1i*2*pi*Fg ./ f) ./ (1 - (exp(-1i*2*pi*Fg ./ f))));
+function [y] = Hd(z)
+    a = 1 / (48 * 1 * 1); 
+    y = -a ./ z ./ (1 - 1./z);
+end
+
+Hz = @(f) Hd(exp(f.*(2i*pi/48)));
 Ha = @(f) 1j ./ (2 * pi .* f);
 
-Db = @(x) 20 * log(x);
+Db = @(x) 20 * log10(x);
 
 Ha(1.3)
 Ha(5.89)
@@ -21,8 +26,10 @@ tiledlayout(2,1)
 
 nexttile
 hold on
+ylim([-60, 10]);
 fplot(@(x) Db(abs(Ha(x))), tint);
-fplot(@(x) Db(abs(Hd(x))), tint);
+fplot(@(x) Db(abs(Hz(x))), tint);
+title("Charakterystyka amplitudowa względem częstotliwości")
 ylabel("|H(f)| [dB]");
 xlabel("F [kHz]");
 legend("Ha(f)", "Hd(f)");
@@ -31,8 +38,11 @@ hold off
 
 nexttile
 hold on
+
+
 fplot(@(x) angle(Ha(x)), tint);
-fplot(@(x) angle(Hd(x)), tint);
+fplot(@(x) angle(Hz(x)), tint);
+title("Charakterystyka argumentowa względem częstotliwości")
 ylabel("arg(H(f)) ");
 xlabel("F [kHz]");
 legend("Ha(f)", "Hd(f)");
