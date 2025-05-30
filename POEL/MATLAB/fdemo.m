@@ -22,30 +22,33 @@ in1 = [0.1, 24];
 in2 = [0.1, 96];
 tint = in2;
 
-tiledlayout(2,1)
+tiledlayout(2,3)
 
-nexttile
-hold on
-ylim([-60, 10]);
-fplot(@(x) Db(abs(Ha(x))), tint);
-fplot(@(x) Db(abs(Hz(x))), tint);
-title("Charakterystyka amplitudowa względem częstotliwości")
-ylabel("|H(f)| [dB]");
-xlabel("F [kHz]");
-legend("Ha(f)", "Hd(f)");
-grid on
-hold off
-
-nexttile
-hold on
-
-
-fplot(@(x) angle(Ha(x)), tint);
-fplot(@(x) angle(Hz(x)), tint);
-title("Charakterystyka argumentowa względem częstotliwości")
-ylabel("arg(H(f)) ");
-xlabel("F [kHz]");
-legend("Ha(f)", "Hd(f)");
-grid on
-hold off
+for tin = [in0', in1', in2']
+    tint = tin';
+    nexttile
+    hold on
+    ylim([-60, 10]);
+    fplot(@(x) Db(abs(Ha(x))), tint);
+    fplot(@(x) Db(abs(Hz(x))), tint);
+    title("Charakterystyka amplitudowa względem częstotliwości")
+    ylabel("|H(f)| [dB]");
+    xlabel("F [kHz]");
+    legend("Ha(f)", "Hd(f)");
+    grid on
+    hold off
+    
+    nexttile
+    hold on
+    
+    
+    fplot(@(x) angle(Ha(x)), tint);
+    fplot(@(x) angle(Hz(x)), tint);
+    title("Charakterystyka argumentowa względem częstotliwości")
+    ylabel("arg(H(f)) ");
+    xlabel("F [kHz]");
+    legend("Ha(f)", "Hd(f)");
+    grid on
+end
+    hold off
 
