@@ -11,3 +11,7 @@ https://www.dropbox.com/scl/fo/ontk7rpqbr9rpudr96x7r/AO5pOIkXGsD0BnpMulUUtJ4?dl=
 
 Wszytskie dyski:
 https://drive.google.com/drive/u/0/folders/1utC-NpokgAVYZFe4gqqE4tzqWZ24byIg
+
+Custom informatyka:
+
+[Informatyka cloud.peku](https://cloud.peku33.net/index.php/s/cy6P8pw9smR2TTB?path=%2F)
