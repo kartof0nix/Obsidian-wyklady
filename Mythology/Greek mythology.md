@@ -52,7 +52,7 @@ Zeus -.- ZI
 Zeus -.- ZE
 Europa -.- ZE
 ZE@{ shape: f-circ}
-
+ZE --- minos["Minos(Crete)"]
 Themis["Themus(godess of law)"]
 ZT@{ shape: f-circ}
 Zeus -.- ZT
