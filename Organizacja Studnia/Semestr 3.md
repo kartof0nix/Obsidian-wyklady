@@ -6,7 +6,7 @@ SKM - [Lab studia](https://studia.elka.pw.edu.pl) [Wykład studia](https://studi
 WSI - [Lab home](https://staff.elka.pw.edu.pl/~rbiedrzy/)) [Wykład studia](https://studia.elka.pw.edu.pl)
 PODA - [Lab studia](https://studia.elka.pw.edu.pl/f-pl/25Z/103A-ARxxx-ISP-PODA/priv/); wyk brak
 SP - Lab 1-y wykład; Wykład Teams;  
-SO - outlook?
+SO - [custom](https://www.ia.pw.edu.pl/~tkruk/edu/soi.b/)
 ## Labolatoria
 EWA - Zgodnie z USOS - pierwszy 29 paź
 SKM - do pocz. stycznia co tydzień
